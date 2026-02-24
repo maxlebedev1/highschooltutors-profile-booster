@@ -1,0 +1,17 @@
+{
+  "listingId": "[your listing id]",
+  "token": "[very long string]",
+  "cookie": "[even longer string starting with: __stripe_mid...]",
+  "hourlyRate": 50,
+  "tutorType": "University Student",
+  "tutoringTypes": {
+    "oneOnOne": true,
+    "group": false,
+    "homeVisits": false,
+    "teachingStudio": false,
+    "phoneHelp": false,
+    "onlineHelp": true,
+    "inPerson": false
+  },
+  "updateIntervalMs": 2500
+}
